@@ -8,3 +8,4 @@
 #import <MBasis-umbrella.h>
 #import <MBasis-Swift.h>
 
+#import <YSSDK/YSSDKManager.h>
